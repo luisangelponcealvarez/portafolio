@@ -8,6 +8,13 @@
 
 /* nav */
 
+  #conteiner-nav .logo-img{
+    display: block;
+    width: 60px;
+    height: 60px;
+    text-align: left;
+  }
+
   #conteiner-nav .menu-ambur{
     display: none;
   }
@@ -25,6 +32,7 @@
   #conteiner-nav #menu ul li a{
     text-align: center;
     padding: 24px;
+    font-size: 20px;
   }
 
   #conteiner-nav{
