@@ -1,32 +1,76 @@
-#conteiner-nav .menu-ambur{
-  display: none;
-}
+/* formateo */
 
-#conteiner-nav #menu{
-  width: 100%;
-}
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
 
-#conteiner-main #inicio img{
-  width: 100px;
-  height: 100px;
-}
+/* nav */
 
-#habilidades{
-  display: none;
-}
+  #conteiner-nav .menu-ambur{
+    display: none;
+  }
 
-#formación{
-  display: none;
-}
+  #conteiner-nav #menu ul{
+    margin: 21px;
+  }
 
-#proyectos{
-  display: none;
-}
+  #conteiner-nav #menu ul li{
+    display: inline;
+    align-items: center;
+    justify-content: center;
+  }
 
-#contacto{
-  display: none;
-}
+  #conteiner-nav #menu ul li a{
+    text-align: center;
+    padding: 24px;
+  }
 
-#container--footer{
-  display: none;
-}
+  #conteiner-nav{
+    justify-content: center;
+    width: 95%;
+    height: 60px;
+  }
+
+/* main */
+
+  #conteiner-main #inicio{
+    margin-top: 8em;
+    padding: 2em;
+  }
+
+  #conteiner-main #inicio img{
+    width: 100px;
+    height: 100px;
+  }
+
+/* habilidades */
+
+  #habilidades{
+    display: none;
+  }
+
+/* formación */
+
+  #formación{
+    display: none;
+  }
+
+/* proyectos */
+
+  #proyectos{
+    display: none;
+  }
+
+/* contacto */
+
+  #contacto{
+    display: none;
+  }
+
+/* footer */
+
+  #container--footer{
+    display: none;
+  }

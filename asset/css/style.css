@@ -32,6 +32,10 @@
     background-color: rgba(255, 255, 255, 20%);
   }
 
+  #conteiner-nav #menu ul li a{
+    color: #fff;
+  }
+
   .menu-ambur{
     width: 95%;
   }
