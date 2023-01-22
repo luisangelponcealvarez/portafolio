@@ -1,0 +1,13 @@
+  button{
+    border: none;
+    list-style: none;
+    color: #fff;
+    background-color: #001C8A;   
+    border-radius: 30px; 
+    width: 152px;
+    height: 37px;
+  }
+
+  #proyectos a, button{
+    margin-top: 10px;
+  }
