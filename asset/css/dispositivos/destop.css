@@ -1,36 +1,37 @@
+/* background */
 
-#conteiner-nav .menu-ambur{
-  display: none;
-}
+  body{
+    background-image: url(../wallpaper/website-under-construction.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100%;
+    background-attachment: fixed;
+  }
 
-#conteiner-nav #menu{
-  width: 100%;
-}
+/* header */ 
 
-#conteiner-main #inicio img{
-  width: 100px;
-  height: 100px;
-}
+  #conteiner-nav{
+    display: none;
+  }
 
-#habilidades{
-  display: none;
-}
+/* main */
 
-#formación{
-  display: none;
-}
+  #conteiner-main{
+    display: none;
+  }
 
-#proyectos{
-  display: none;
-}
+/* footer */
 
-#contacto{
-  display: none;
-}
+  #container--footer{
+    display: none;
+  }
 
-#container--footer{
-  display: none;
-}
+
+
+
+
+
+
 
 
 
