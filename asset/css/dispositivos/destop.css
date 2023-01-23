@@ -9,10 +9,8 @@
 /* nav */
 
   #conteiner-nav .logo-img{
-    display: block;
     width: 60px;
     height: 60px;
-    text-align: left;
   }
 
   #conteiner-nav .menu-ambur{
