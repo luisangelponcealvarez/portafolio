@@ -43,12 +43,24 @@
 
   #conteiner-main #inicio{
     margin-top: 8em;
-    padding: 2em;
+    padding: 6em;
+    border: 2px solid #000;
+    width: 90%;
+    height: 25em;
   }
-
+  
   #conteiner-main #inicio img{
     width: 100px;
     height: 100px;
+    float: right;
+    border-radius: 20px;
+  }
+
+  #conteiner-main #inicio .conteiner-text{
+    width: 50%;
+    height: auto;
+    text-align: center;
+    margin: 10px;
   }
 
 /* habilidades */
