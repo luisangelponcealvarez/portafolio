@@ -26,10 +26,10 @@
 /*nav*/
   #conteiner-nav{
     display: flex;
-    border-radius: 30px;
     height: 70px;
     position: fixed;
     background-color: rgb(255, 255, 255);
+    margin: 0;
   }
 
   #conteiner-nav #menu ul li a{
