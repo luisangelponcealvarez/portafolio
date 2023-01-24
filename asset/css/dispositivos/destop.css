@@ -42,8 +42,10 @@
   }
 
   #conteiner-nav{
-    width: 98%;
+    width: 96.1%;
     height: 60px;
+    align-items: center;
+    right: 1.2em;
   }
 
 /* main */
