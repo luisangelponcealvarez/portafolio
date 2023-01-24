@@ -52,6 +52,10 @@
     align-items: center;
   }
 
+  #conteiner-main section{
+    border: 2px solid #000;
+  }
+
   #inicio{
     background-color: rgba(255, 255, 255, 0.2);
     border-radius: 30px;
