@@ -26,10 +26,14 @@
 /*nav*/
   #conteiner-nav{
     display: flex;
-    border-radius: 30px;
     height: 70px;
     position: fixed;
-    background-color: rgba(255, 255, 255, 20%);
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px;
+  }
+
+  #conteiner-nav #menu ul li a{
+    color: #000;
   }
 
   .menu-ambur{
@@ -46,6 +50,10 @@
     display: flex;
     justify-content: center;
     align-items: center;
+  }
+
+  #conteiner-main section{
+    border: 2px solid #000;
   }
 
   #inicio{

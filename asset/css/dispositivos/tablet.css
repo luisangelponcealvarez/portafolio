@@ -134,6 +134,11 @@
     padding: 30px;
   }
 
+  #contacto h1{
+    text-align: center;
+    width: 100%;
+  }
+
 /* footer */
 
   #container--footer{
