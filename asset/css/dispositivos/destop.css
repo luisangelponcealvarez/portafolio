@@ -17,14 +17,18 @@
     display: none;
   }
 
+  #conteiner-nav #menu{
+    width: 95%;
+    text-align: center;
+  }
+
   #conteiner-nav #menu ul{
     margin: 21px;
   }
 
   #conteiner-nav #menu ul li{
     display: inline;
-    align-items: center;
-    justify-content: center;
+    margin: 5px;
   }
 
   #conteiner-nav #menu ul li a{
@@ -34,9 +38,10 @@
   }
 
   #conteiner-nav{
-    justify-content: center;
-    width: 95%;
+    width: 90%;
     height: 60px;
+    top: 1em;
+    right: 3em;
   }
 
 /* main */
@@ -50,10 +55,13 @@
   }
   
   #conteiner-main #inicio img{
-    width: 100px;
-    height: 100px;
+    width: 300px;
+    height: 300px;
     float: right;
     border-radius: 20px;
+    position: absolute;
+    top: 11em;
+    right: 10em;
   }
 
   #conteiner-main #inicio .conteiner-text{
