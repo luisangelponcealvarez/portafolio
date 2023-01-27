@@ -6,6 +6,7 @@
     border-radius: 30px; 
     width: 152px;
     height: 37px;
+    cursor: pointer;
   }
 
   #proyectos a, button{
