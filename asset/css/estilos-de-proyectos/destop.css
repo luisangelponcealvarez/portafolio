@@ -1,3 +1,12 @@
-body .titulo{
-  display: none;
-}
+
+  body .titulo{
+    text-align: center;
+  }
+
+  #proyectos{
+    display: none;
+  }
+
+  #container--footer{
+    display: none;
+  }
