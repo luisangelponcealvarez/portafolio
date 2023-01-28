@@ -22,7 +22,7 @@
   }
 
   nav{
-    background-color: rgb(26, 7, 199);
+    background-color: #fff;
     position: absolute;
     top: 5rem;
     left: -100%;
@@ -37,7 +37,6 @@
   }
 
   nav ul li a{
-    color: #fff;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -119,6 +118,7 @@
   #proyectos .proyecto-1{
     background-color: #292929;
     border-radius: 30px;
+    margin: 10px;
   }
 
   #proyectos .proyecto-1 img{

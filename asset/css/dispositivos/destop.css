@@ -127,13 +127,14 @@
   }
 
   #proyectos h1{
-    width: 100%;
+    width: 90%;
   }
 
   #proyectos .proyecto-1{
     background-color: #292929;
     border-radius: 30px;
-    width: 40%;
+    width: 30%;
+    margin: 10px;
   }
 
   #proyectos .proyecto-1 img{
