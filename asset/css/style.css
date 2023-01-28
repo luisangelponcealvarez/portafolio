@@ -99,6 +99,10 @@
     border-radius: 30px;
   }
 
+  #proyectos .btn-ver-mas{
+    width: 100%;
+  }
+
 /* contacto */
 
   #contacto{
