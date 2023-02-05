@@ -16,8 +16,7 @@
   }
 
   body{
-    background-color: rgb(102, 102, 102);
-    margin: 10px;
+    background-color: rgb(41,41,41);
   }
 
   main{
@@ -42,7 +41,6 @@
     height: 70px;
     position: fixed;
     background-color: rgb(255, 255, 255);
-    border-radius: 30px;
     z-index: 1;
   }
 
@@ -66,12 +64,12 @@
     align-items: center;
   }
 
-  #conteiner-main section{
-    border: 2px solid #000;
+  #inicio{
+    background-color: rgba(255, 255, 255, 0.2);
   }
 
-  #inicio{
-    border-radius: 30px;
+  #inicio .photo{
+    border-radius: 25px;
   }
 
   #inicio h2{
@@ -88,7 +86,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 30px;
+    background-color: rgba(255, 255, 255, 20%);
   }
 
 /* formación */
@@ -97,7 +95,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 30px;
+    background-color: rgba(255, 255, 255, 20%);
   }
 
 /* proyectos */
@@ -106,7 +104,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 30px;
+    background-color: rgba(255, 255, 255, 20%);
   }
 
   #proyectos .btn-ver-mas{
@@ -120,7 +118,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 30px;
+    background-color: rgba(255, 255, 255, 20%);
   }
 
 /* footer */
