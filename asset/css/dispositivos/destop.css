@@ -22,12 +22,12 @@
   }
 
   #conteiner-nav #menu{
-    width: 95%;
+    width: 100%;
     text-align: center;
   }
 
   #conteiner-nav #menu ul{
-    margin: 21px;
+    margin: 5px;
   }
 
   #conteiner-nav #menu ul li{
