@@ -28,8 +28,9 @@
     left: -100%;
     width: 50%;
     height: 73vh;
-    padding: 58px;
+    padding: 34px;
     transition: all 0.5s;
+    border-radius: 25px;
   }
 
   nav ul li{
