@@ -39,7 +39,6 @@
   #conteiner-nav{
     display: flex;
     height: 70px;
-    position: fixed;
     background-color: rgb(255, 255, 255);
     z-index: 1;
   }
@@ -49,7 +48,7 @@
   }
 
   .menu-ambur{
-    width: 95%;
+    width: 90%;
   }
 
   .menu-ambur{
