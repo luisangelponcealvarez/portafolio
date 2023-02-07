@@ -38,7 +38,6 @@
 /*nav*/
   #conteiner-nav{
     display: flex;
-    height: 70px;
     background-color: rgb(255, 255, 255);
     position: absolute;
     z-index: 1;
