@@ -1,4 +1,4 @@
-* {
+  * {
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
@@ -36,6 +36,7 @@
   }
 
 /*nav*/
+
   #conteiner-nav{
     display: flex;
     background-color: rgb(255, 255, 255);
@@ -50,7 +51,6 @@
   .menu-ambur{
     width: 100%;
   }
-
   .menu-ambur{
     display: none;
   }
@@ -78,7 +78,7 @@
   #inicio h3{
     color: rgb(0, 0, 0);
   }
-  
+
 /*conteiner habilidades*/
 
   #habilidades{
@@ -111,18 +111,9 @@
     height: 47px;
   }
 
-/* contacto */
-
-  #contacto{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: rgba(255, 255, 255, 20%);
-  }
-
 /* footer */
 
   #container--footer img{
-   width: 48px;
-   height: 48px; 
+  width: 48px;
+  height: 48px; 
   }
