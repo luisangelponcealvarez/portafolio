@@ -1,3 +1,5 @@
+/* format */
+
   *{
     margin: 0;
     padding: 0;
@@ -149,3 +151,22 @@
   #container--footer .container_text--footer {
     color: #fff;
   }
+
+/* sitio de proyectos */
+
+  #sitio-de-proyectos{
+    width: 98%;
+
+  }
+  
+  #sitio-de-proyectos .proyecto-1{
+    width: 100%;
+    margin: 7px 8px;
+  }
+
+  #sitio-de-proyectos .proyecto-1 img{
+    width: 100%;
+    height: 0 auto;
+  }
+
+

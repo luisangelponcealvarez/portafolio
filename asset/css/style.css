@@ -127,4 +127,21 @@
       display: flex;
       justify-content: center;
       align-items: center;
+      flex-wrap: wrap;
+      text-align: center;
     }
+
+    #sitio-de-proyectos .proyecto-1{
+      background-color: #1F1F1F;
+      border-radius: 25px;
+    }
+
+    #sitio-de-proyectos .proyecto-1 button{
+      margin: 10px;
+    }
+
+    #sitio-de-proyectos .proyecto-1 img{
+      border-radius: 25px 25px 0px 0px;
+    }
+
+
