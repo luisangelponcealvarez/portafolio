@@ -53,8 +53,8 @@
   #conteiner-main #inicio{
     padding: 5em;
     width: 100%;
-    height: 30em;
-    margin-top: 46px;
+    height: 36em;
+    margin-top: 5em;
   }
 
   #conteiner-main #inicio img{
@@ -63,7 +63,7 @@
     float: right;
     border-radius: 20px;
     position: absolute;
-    top: 8em;
+    top: 12em;
     right: 7em;
   }
 
@@ -71,7 +71,7 @@
     width: 50%;
     height: auto;
     text-align: center;
-    margin-top: 59px;
+    margin-top: 6em;
   }
 
 /* habilidades */
