@@ -148,8 +148,24 @@
 /* footer */
 
   #container--footer{
-    margin-top: 0.5em;
+    margin-top: 5em;
     width: 100%;
-    flex-wrap: wrap;
-    text-align: center;
+  }
+
+  
+/* sitio de proyectos */
+
+  #sitio-de-proyectos{
+    width: 98%;
+  }
+
+  #sitio-de-proyectos .proyecto-1{
+    width: 100%;
+    height: 370px;
+    margin: 7px 8px;
+  }
+
+  #sitio-de-proyectos .proyecto-1 img{
+    width: 100%;
+    height: 0 auto;
   }

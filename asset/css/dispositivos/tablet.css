@@ -156,7 +156,7 @@
 
   #sitio-de-proyectos{
     width: 98%;
-
+    flex-wrap: wrap;
   }
   
   #sitio-de-proyectos .proyecto-1{

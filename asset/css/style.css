@@ -112,12 +112,15 @@
   }
 
 /* footer */
-
-  #container--footer img{
-  width: 48px;
-  height: 48px; 
+  
+  #container--footer{
+    text-align: center;
   }
 
+  #container--footer img{
+    width: 48px;
+    height: 48px; 
+  }
 
 /* sitio de proyectos */
 
@@ -127,7 +130,6 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      flex-wrap: wrap;
       text-align: center;
     }
 
