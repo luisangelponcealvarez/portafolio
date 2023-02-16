@@ -4,18 +4,13 @@
     color: #fff;
     background-color: #001C8A;   
     border-radius: 30px; 
-    width: 152px;
+    width: 130px;
     height: 37px;
     cursor: pointer;
   }
 
   #proyectos a, button{
-    margin-top: 10px;
-  }
-
-  #proyectos button:hover{
-    width: 200px;
-    height: 50px;
+    margin: 10px;
   }
 
   #proyectos .btn-ver-mas{
