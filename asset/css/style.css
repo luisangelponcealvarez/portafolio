@@ -1,3 +1,5 @@
+/* format   */
+  
   * {
     margin: 0px;
     padding: 0px;
@@ -59,6 +61,11 @@
     align-items: center;
   }
 
+  #inicio{
+    border-radius: 25px;
+    border: 2px solid #000;
+  }
+
   #inicio .photo{
     border-radius: 25px;
   }
@@ -77,7 +84,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgba(255, 255, 255, 20%);
+    border: 2px solid #000;
+    border-radius: 25px;
   }
 
 /* formación */
@@ -86,7 +94,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgba(255, 255, 255, 20%);
+    border: 2px solid #000;
+    border-radius: 25px;
   }
 
 /* proyectos */
@@ -95,7 +104,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgba(255, 255, 255, 20%);
+    border: 2px solid #000;
+    border-radius: 25px;  
   }
 
   #proyectos .btn-ver-mas{
@@ -137,5 +147,3 @@
     #sitio-de-proyectos .proyecto-1 img{
       border-radius: 25px 25px 0px 0px;
     }
-
-

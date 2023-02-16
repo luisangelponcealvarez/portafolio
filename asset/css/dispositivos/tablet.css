@@ -1,11 +1,3 @@
-/* format */
-
-  *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-
 /*nav*/
   
   #conteiner-nav{
@@ -71,9 +63,9 @@
 
   #inicio{
     width: 100%;
-    height: 180vw;
-    margin-top: 40px;
+    height: 40em;
     padding: 2em;
+    margin: 5em 10px 10px 10px;
   }
 
   #inicio img{
@@ -81,6 +73,10 @@
     height: 200px;
   }
 
+  .conteiner-text h2{
+    margin: 10px;
+  }
+  
   #inicio p{
     margin: 10px;
   }
@@ -89,7 +85,7 @@
   
   #habilidades{
     flex-wrap: wrap;
-    margin-top: 2.5em;
+    margin: 5em 10px 10px 10px;
     padding: 30px;
   }
 
@@ -102,7 +98,7 @@
   
   #formación{
     flex-wrap: wrap;
-    margin-top: 2.5em;
+    margin: 5em 10px 10px 10px;
     padding: 30px;
   }
 
@@ -113,7 +109,6 @@
   }
 
   #formación .oracle-next-education{
-    background-color: #292929;
     border-radius: 30px;
     padding: 30px;
   }
@@ -126,14 +121,14 @@
 
   #proyectos{
     flex-wrap: wrap;
-    margin-top: 2.5em;
+    margin: 5em 10px 10px 10px;
     padding: 30px;
   }
 
   #proyectos .proyecto-1{
-    background-color: #4f4f4f;
     border-radius: 30px;
     margin: 10px;
+    background-color: rgba(255, 255, 255, .5);
   }
 
   #proyectos .proyecto-1 img{
@@ -168,5 +163,3 @@
     width: 100%;
     height: 0 auto;
   }
-
-
