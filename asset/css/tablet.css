@@ -1,0 +1,167 @@
+/*nav*/
+  
+  #conteiner-nav{
+    width: 100%;
+    z-index: 1;
+    position: fixed;
+  }
+
+  .menu-ambur{
+    display: flex;
+    margin: 2px 20px 0px 0px;
+    flex-direction: row;
+    justify-content: end;
+  }
+
+  .mostrar{
+    left: 0;
+  }
+
+  nav{
+    background-color: #fff;
+    cursor: pointer;
+    position: absolute;
+    top: 5rem;
+    left: -100%;
+    width: 50%;
+    height: 73vh;
+    padding: 34px;
+    transition: all 0.5s;
+    border-radius: 25px;
+  }
+
+  nav ul li{
+    margin: 30px;
+  }
+
+  nav ul li a{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  nav ul li a:active{
+    background-color: #292929;
+    border-radius: 10px;
+    transition: all 0.1s;
+  }
+
+  #conteiner-nav img{
+    width: 60px;
+    height: 60px;
+  }
+
+  #conteiner-nav nav{
+    display: block;
+  }
+
+/*conteiner main inicio*/
+  
+  #conteiner-main{
+    text-align: center;
+  }
+
+  #inicio{
+    width: 100%;
+    height: 40em;
+    padding: 2em;
+    margin: 5em 10px 10px 10px;
+  }
+
+  #inicio img{
+    width: 200px;
+    height: 200px;
+  }
+
+  .conteiner-text h2{
+    margin: 10px;
+  }
+  
+  #inicio p{
+    margin: 10px;
+  }
+
+/*conteiner main habilidades*/
+  
+  #habilidades{
+    flex-wrap: wrap;
+    margin: 5em 10px 10px 10px;
+    padding: 30px;
+  }
+
+  #habilidades h1{
+    color: azure;
+    width: 100%;
+  }
+  
+/* formación */
+  
+  #formación{
+    flex-wrap: wrap;
+    margin: 5em 10px 10px 10px;
+    padding: 30px;
+  }
+
+  #formación h1{
+    color: azure;
+    width: 100%;
+    margin: 10px;
+  }
+
+  #formación .oracle-next-education{
+    border-radius: 30px;
+    padding: 30px;
+  }
+
+  #formación .oracle-next-education img{
+    width: 50%;
+  }
+
+/* proyectos */
+
+  #proyectos{
+    flex-wrap: wrap;
+    margin: 5em 10px 10px 10px;
+    padding: 30px;
+  }
+
+  #proyectos .proyecto-1{
+    border-radius: 30px;
+    margin: 10px;
+    background-color: rgba(255, 255, 255, .5);
+  }
+
+  #proyectos .proyecto-1 img{
+    width: 100%;
+    border-radius: 30px 30px 0px 0px;
+  }
+
+/* footer */
+
+  #container--footer{
+    align-items: center;
+    text-align: center;
+  }
+
+  #container--footer .container_text--footer {
+    color: #fff;
+  }
+
+/* sitio de proyectos */
+
+  #sitio-de-proyectos{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+  }
+  
+  #sitio-de-proyectos .proyecto-1{
+    flex-wrap: wrap;
+    margin: 5em 10px 10px 10px;
+    padding: 30px;
+  }
+
+  #sitio-de-proyectos .proyecto-1 img{
+    width: 100%;
+    height: 0 auto;
+  }
