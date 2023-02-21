@@ -150,12 +150,14 @@
 /* sitio de proyectos */
 
   #sitio-de-proyectos{
-    width: 98%;
+    display: flex;
+    width: 100%;
     flex-wrap: wrap;
   }
   
   #sitio-de-proyectos .proyecto-1{
-    width: 100%;
+    width: 46%;
+    height: 0 auto;
     margin: 7px 8px;
   }
 

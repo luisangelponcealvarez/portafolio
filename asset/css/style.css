@@ -127,11 +127,16 @@
       justify-content: center;
       align-items: center;
       text-align: center;
+      flex-wrap: wrap;
     }
 
     #sitio-de-proyectos .proyecto-1{
       background-color: #1F1F1F;
       border-radius: 25px;
+    }
+
+    #sitio-de-proyectos .proyecto-1 h2,p{
+      margin: 10px;
     }
 
     #sitio-de-proyectos .proyecto-1 img{

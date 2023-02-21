@@ -156,13 +156,13 @@
 /* sitio de proyectos */
 
   #sitio-de-proyectos{
-    width: 98%;
+    width: 100%;
+    height: 0 auto;
   }
 
   #sitio-de-proyectos .proyecto-1{
-    width: 100%;
-    height: 400px;
-    margin: 7px 8px;
+    width: 30%;
+    margin: 13px 22px;
   }
 
   #sitio-de-proyectos .proyecto-1 img{
