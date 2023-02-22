@@ -113,7 +113,7 @@ p {
 
 /*conteiner habilidades*/
 
-#habilidades {
+#container-habilidades {
   width: 98%;
   display: flex;
   justify-content: center;
@@ -124,15 +124,21 @@ p {
   flex-wrap: wrap;
 }
 
-#habilidades h1 {
+#container-habilidades h1 {
   width: 100%;
   text-align: center;
   margin: 10px;
 }
 
-#habilidades div {
+#container-habilidades .habilidades {
   margin: 3em;
   text-align: center;
+  width: 12%;
+}
+
+#container-habilidades .habilidades img{
+  width: 100px;
+  height: 100px;
 }
 
 /* formación */
