@@ -59,6 +59,10 @@ p {
   font-size: 20px;
 }
 
+#conteiner-nav #menu ul li a:hover{
+  color: #4548ff;
+}
+
 #conteiner-nav #menu {
   margin-left: 10px;
   text-align: center;
@@ -207,15 +211,20 @@ p {
 
 /* footer */
 
-#container--footer {
+#contac{
   width: 98%;
   text-align: center;
   margin: 5px;
 }
 
-#container--footer img {
-  width: 48px;
-  height: 48px;
+#contac i {
+  font-size: 30px;
+  margin: 10px;
+  color: #fff;
+}
+
+#contac i:hover {
+  color: blue;
 }
 
 /* sitio de proyectos */
