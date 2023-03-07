@@ -59,7 +59,7 @@ p {
   font-size: 20px;
 }
 
-#conteiner-nav #menu ul li a:hover{
+#conteiner-nav #menu ul li a:hover {
   color: #4548ff;
 }
 
@@ -211,7 +211,7 @@ p {
 
 /* footer */
 
-#contac{
+#contac {
   width: 98%;
   text-align: center;
   margin: 5px;
@@ -223,8 +223,30 @@ p {
   color: #fff;
 }
 
-#contac i:hover {
-  color: blue;
+/* hover-icons */
+
+#contac .linkedin:hover {
+  color: #00146d;
+}
+
+#contac .github:hover {
+  color: #0a0505;
+}
+
+#contac .instagram:hover {
+  color: #ff1aa7;
+}
+
+#contac .facebook:hover {
+  color: #2600ff;
+}
+
+#contac .twitter:hover {
+  color: #005f6b;
+}
+
+#contac .spotify:hover {
+  color: #06b600;
 }
 
 /* sitio de proyectos */
